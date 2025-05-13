@@ -41,7 +41,7 @@ formulario-venda-carros/
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/formulario-venda-carros.git
+   git clone (https://github.com/nathaliatg/form-project/)
    ```
 2. Acesse o diretório:
 
